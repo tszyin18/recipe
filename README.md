@@ -11,3 +11,6 @@ last line changed locally
 
 # cuisine
 ### hong kong cuisine
+- hong kong style milk tea
+- baked egg tarts with pastry shell
+- pineapple buns
